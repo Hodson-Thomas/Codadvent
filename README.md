@@ -1,2 +1,11 @@
 # Codadvent
-https://coda-school.github.io/advent-2025/
+
+Hello there !
+
+You will find here my solution for the Coda's advent of code 2025 edition. Here is a link to the original content : https://coda-school.github.io/advent-2025/.
+
+## Day 1 - Encrypted message
+
+> link: https://coda-school.github.io/advent-2025/?day=1
+
+I wrote a solution in F#.
