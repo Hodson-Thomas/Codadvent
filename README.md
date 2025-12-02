@@ -9,3 +9,10 @@ You will find here my solution for the Coda's advent of code 2025 edition. Here 
 > link: https://coda-school.github.io/advent-2025/?day=1
 
 I wrote a solution in F#.
+
+
+## Day 2 - Count reindeers
+
+> link: https://coda-school.github.io/advent-2025/?day=2
+
+I wrote a solution in OCaml
