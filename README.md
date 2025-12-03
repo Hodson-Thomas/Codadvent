@@ -16,3 +16,10 @@ I wrote a solution in F#.
 > link: https://coda-school.github.io/advent-2025/?day=2
 
 I wrote a solution in OCaml
+
+
+## Day 3 - The ghost script
+
+> link: https://coda-school.github.io/advent-2025/?day=03
+
+I wrote a solution in bash.
