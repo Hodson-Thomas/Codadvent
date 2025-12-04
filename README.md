@@ -23,3 +23,10 @@ I wrote a solution in OCaml
 > link: https://coda-school.github.io/advent-2025/?day=03
 
 I wrote a solution in bash.
+
+
+## Day 3 - Biscuit battle 
+
+> link: https://coda-school.github.io/advent-2025/?day=04
+
+I wrote a solution in Zig.
