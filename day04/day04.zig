@@ -75,13 +75,6 @@ const ParserIterator = struct {
                     return elf;
                 }
 
-                if (l.len == 0) {
-                    if (has_name) {
-                        self.allocator.free(elf.name);
-                    }
-                    return null;
-                }
-
                 if (is_u32(l)) {
                     elf.calories += std.fmt.parseUnsigned(u32, l, 10) catch {
                         if (has_name) {
