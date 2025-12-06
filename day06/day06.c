@@ -19,6 +19,7 @@ void test() {
     int test3[0];
     int test4[] = { 1, 2 };
     int test5[] = { INT_MAX, 1 };
+    int test6[] = { -10 };
 
     printf("Test 1 ... ");
     assert(averageWeight(test1, 4) == 6);
@@ -38,6 +39,10 @@ void test() {
 
     printf("Test 5 ... ");
     assert(averageWeight(test5, 2) == -1);
+    printf("Pass !\n");
+
+    printf("Test 6 ... ");
+    assert(averageWeight(test6, 1) == -1);
     printf("Pass !\n");
 }
 
