@@ -38,6 +38,8 @@ I wrote a solution in Zig.
 
 I wrote an evil Html, Css and Js solution.
 
+You can test it live here : https://coda-school.github.io/datepickers-from-hell/datepickers/tsumifa.html
+
 
 ## Day 4 - A matter of weights
 
