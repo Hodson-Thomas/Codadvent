@@ -37,3 +37,10 @@ I wrote a solution in Zig.
 > link: https://coda-school.github.io/advent-2025/?day=05
 
 I wrote an evil Html, Css and Js solution.
+
+
+## Day 4 - A matter of weights
+
+> link: https://coda-school.github.io/advent-2025/?day=06
+
+I wrote my solution in native C.
