@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gambler's date picker</title>
+    <script src="scripts.js" defer></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="content">
+        <h1>Select a date</h1>
+        <p class="hidden" id="result">Your date is</p>
+        <form>
+            <input type="number" id="day" placeholder="day" disabled tabindex="-1" />
+            <input type="number" id="month" placeholder="month" disabled tabindex="-1" />
+            <input type="number" id="year" placeholder="year" disabled tabindex="-1" />
+        </form>
+
+        <div class="buttons">
+            <button id="shuffle">Start</button>
+            <button id="validate" class="hidden">Validate</button>
+            <button id="reset" class="hidden">Reset</button>
+        </div>
+
+    </div>
+</body>
+</html>

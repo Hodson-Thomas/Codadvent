@@ -30,3 +30,10 @@ I wrote a solution in bash.
 > link: https://coda-school.github.io/advent-2025/?day=04
 
 I wrote a solution in Zig.
+
+
+## Day 4 - Infernal date 
+
+> link: https://coda-school.github.io/advent-2025/?day=05
+
+I wrote an evil Html, Css and Js solution.
