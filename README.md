@@ -25,14 +25,14 @@ I wrote a solution in OCaml
 I wrote a solution in bash.
 
 
-## Day 3 - Biscuit battle 
+## Day 4 - Biscuit battle 
 
 > link: https://coda-school.github.io/advent-2025/?day=04
 
 I wrote a solution in Zig.
 
 
-## Day 4 - Infernal date 
+## Day 5 - Infernal date 
 
 > link: https://coda-school.github.io/advent-2025/?day=05
 
@@ -41,8 +41,15 @@ I wrote an evil Html, Css and Js solution.
 You can test it live here : https://coda-school.github.io/datepickers-from-hell/datepickers/tsumifa.html
 
 
-## Day 4 - A matter of weights
+## Day 6 - A matter of weights
 
 > link: https://coda-school.github.io/advent-2025/?day=06
 
 I wrote my solution in native C.
+
+
+## Day 7 - A matter of weights
+
+> link: https://coda-school.github.io/advent-2025/?day=07
+
+I wrote my solution in Typescript.
