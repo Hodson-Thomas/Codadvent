@@ -53,3 +53,10 @@ I wrote my solution in native C.
 > link: https://coda-school.github.io/advent-2025/?day=07
 
 I wrote my solution in Typescript.
+
+
+## Day 7 - A matter of weights
+
+> link: https://coda-school.github.io/advent-2025/?day=08
+
+I wrote my solution in Python.
