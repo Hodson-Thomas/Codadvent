@@ -48,15 +48,22 @@ You can test it live here : https://coda-school.github.io/datepickers-from-hell/
 I wrote my solution in native C.
 
 
-## Day 7 - A matter of weights
+## Day 7 - An imperfect future
 
 > link: https://coda-school.github.io/advent-2025/?day=07
 
 I wrote my solution in Typescript.
 
 
-## Day 7 - A matter of weights
+## Day 8 - Nice children
 
 > link: https://coda-school.github.io/advent-2025/?day=08
 
 I wrote my solution in Python.
+
+
+## Day 8 - A distance for a ride
+
+> link: https://coda-school.github.io/advent-2025/?day=09
+
+I wrote my solution in V.
