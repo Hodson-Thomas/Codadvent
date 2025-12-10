@@ -62,8 +62,15 @@ I wrote my solution in Typescript.
 I wrote my solution in Python.
 
 
-## Day 8 - A distance for a ride
+## Day 9 - A distance for a ride
 
 > link: https://coda-school.github.io/advent-2025/?day=09
 
 I wrote my solution in V.
+
+
+## Day 10 - The perfect present quest
+
+> link: https://coda-school.github.io/advent-2025/?day=09
+
+I wrote my solution in C#.
