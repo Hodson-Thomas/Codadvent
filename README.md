@@ -71,6 +71,13 @@ I wrote my solution in V.
 
 ## Day 10 - The perfect present quest
 
-> link: https://coda-school.github.io/advent-2025/?day=09
+> link: https://coda-school.github.io/advent-2025/?day=10
+
+I wrote my solution in C#.
+
+
+## Day 11 - A tour blocking bug
+
+> link: https://coda-school.github.io/advent-2025/?day=11
 
 I wrote my solution in C#.
