@@ -81,3 +81,10 @@ I wrote my solution in C#.
 > link: https://coda-school.github.io/advent-2025/?day=11
 
 I wrote my solution in C#.
+
+
+## Day 12 - A S.O.L.I.D. bug
+
+> link: https://coda-school.github.io/advent-2025/?day=12
+
+I wrote my solution in Java.
