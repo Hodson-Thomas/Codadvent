@@ -88,3 +88,8 @@ I wrote my solution in C#.
 > link: https://coda-school.github.io/advent-2025/?day=12
 
 I wrote my solution in Java.
+
+
+## Day 13 - The elves' marketplace
+
+> link: https://coda-school.github.io/advent-2025/?day=13
