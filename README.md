@@ -100,3 +100,8 @@ I wrote my solution in Java.
 > link: https://coda-school.github.io/advent-2025/?day=14
 
 I wrote my solution in BQN.
+
+
+## Day 15 - Nora's code
+
+> link: https://coda-school.github.io/advent-2025/?day=15
