@@ -112,3 +112,10 @@ I wrote my solution in BQN.
 > link: https://coda-school.github.io/advent-2025/?day=16
 
 I wrote my solution in Rust.
+
+
+## Day 17 - If ... Else ... Refractor
+
+> link: https://coda-school.github.io/advent-2025/?day=17
+
+I wrote my solution in Dart.
