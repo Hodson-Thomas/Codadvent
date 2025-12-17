@@ -105,3 +105,10 @@ I wrote my solution in BQN.
 ## Day 15 - Nora's code
 
 > link: https://coda-school.github.io/advent-2025/?day=15
+
+
+## Day 16 - An encrypted message
+
+> link: https://coda-school.github.io/advent-2025/?day=16
+
+I wrote my solution in Rust.
