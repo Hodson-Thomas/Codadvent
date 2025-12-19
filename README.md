@@ -122,6 +122,14 @@ I wrote my solution in Dart.
 
 
 ## Day 18 - The GQS mystery  
+
 > link: https://coda-school.github.io/advent-2025/?day=18
 
 I wrote my solution in Elixir.
+
+
+## Day 19 - Santa 
+
+> link: https://coda-school.github.io/advent-2025/?day=19
+
+I wrote my solution in Javascript.
