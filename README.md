@@ -133,3 +133,10 @@ I wrote my solution in Elixir.
 > link: https://coda-school.github.io/advent-2025/?day=19
 
 I wrote my solution in Javascript.
+
+
+## Day 20 - Elven Logistics 
+
+> link: https://coda-school.github.io/advent-2025/?day=20
+
+I wrote my solution in Scala.
