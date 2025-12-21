@@ -140,3 +140,10 @@ I wrote my solution in Javascript.
 > link: https://coda-school.github.io/advent-2025/?day=20
 
 I wrote my solution in Scala.
+
+
+## Day 21 - The malevolent elf 
+
+> link: https://coda-school.github.io/advent-2025/?day=21
+
+I wrote my solution in sqlite.
