@@ -154,3 +154,10 @@ I wrote my solution in sqlite.
 > link: https://coda-school.github.io/advent-2025/?day=22
 
 I wrote my solution in Html and Css.
+
+
+## Day 25 - The Audit of Unwanted Gifts
+
+> link: https://coda-school.github.io/advent-2025/?day=25
+
+I wrote my solution in Kotlin.
