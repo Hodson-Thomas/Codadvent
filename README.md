@@ -147,3 +147,10 @@ I wrote my solution in Scala.
 > link: https://coda-school.github.io/advent-2025/?day=21
 
 I wrote my solution in sqlite.
+
+
+## Day 22 - The ASCII tree
+
+> link: https://coda-school.github.io/advent-2025/?day=22
+
+I wrote my solution in Html and Css.
