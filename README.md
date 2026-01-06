@@ -156,6 +156,19 @@ I wrote my solution in sqlite.
 I wrote my solution in Html and Css.
 
 
+## Day 23 - To make oneself indispensable
+
+> link: https://coda-school.github.io/advent-2025/?day=23
+
+I wrote my solution in Gulf of Mexico.
+https://github.com/TodePond/GulfOfMexico
+
+
+## Day 24 - Santa's message
+
+> link: https://coda-school.github.io/advent-2025/?day=24
+
+
 ## Day 25 - The Audit of Unwanted Gifts
 
 > link: https://coda-school.github.io/advent-2025/?day=25
